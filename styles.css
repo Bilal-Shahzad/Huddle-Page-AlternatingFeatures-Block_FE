@@ -7,3 +7,19 @@
     margin-right: 5em;
 }
 
+.textcontainer {
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    color: black;    
+    margin-bottom: 5em;
+}
+
+.textcontainer p {
+    font-family: 'Open Sans', sans-serif;
+    color: hsl(192, 100%, 9%);
+    max-width: 30em;
+    font-size: 25px;
+    font-weight: 400;
+    margin: auto;
+    margin-bottom: 1.5em;
+}
