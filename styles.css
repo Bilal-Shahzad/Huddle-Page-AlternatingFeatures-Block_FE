@@ -34,3 +34,29 @@
     width: 25em;
     color: white;
 }
+
+.image2 {
+    margin: auto;
+    margin-bottom: 5em;
+}
+
+.counts {
+    max-width: 50em;
+    margin: auto;
+}
+
+.counts p {
+    font-family: 'Open Sans', sans-serif;
+    color: black
+}
+
+.pointsimg{
+    margin-top: 5em;
+    width: 100%;
+    height: 23vh;
+}
+
+.pointsimg2{
+    max-width: 100%;
+    height: 23vh;
+}
