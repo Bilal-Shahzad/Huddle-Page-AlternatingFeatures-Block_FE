@@ -41,7 +41,7 @@
 }
 
 .counts {
-    max-width: 50em;
+    max-width: 45em;
     margin: auto;
 }
 
@@ -59,4 +59,9 @@
 .pointsimg2{
     max-width: 100%;
     height: 23vh;
+}
+
+.secondpoint2 img{
+    max-width: width 96px;
+    height: auto;
 }
