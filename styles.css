@@ -70,7 +70,7 @@
 .thirdpointsimg{
     margin-top: 5em;
     width: 100%;
-    height: 23px;
+    height: 22x;
 }
 
 .thirdpoints{
@@ -80,9 +80,31 @@
 
 .secondpointpg {
     font-size: 50px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     color:black;
     margin-top: 5em;
     padding: 5em;
+}
+
+.thirdpointsimg2{
+    width: 100%;
+    height: 23vh;
+}
+
+button{
+    margin-top: 2em;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: pink;
+    padding: 1.5em;
+    border-radius: 3em;
+    width: 25em;
+    color: white;
+}
+
+.footers{
+    margin-bottom: -5em;
+    background-color: hsl(192, 100%, 9%);
+    padding: 10em;
 }
 
