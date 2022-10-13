@@ -9,7 +9,7 @@
 
 .textcontainer {
     font-size: 50px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Open sans', sans-serif;
     color: black;    
     margin-bottom: 5em;
 }
@@ -34,6 +34,8 @@
     border-radius: 3em;
     width: 25em;
     color: white;
+    margin: auto;
+    margin-bottom: 1.5em;
 }
 
 .image2 {
@@ -48,7 +50,7 @@
 
 .counts p {
     font-family: 'Open Sans', sans-serif;
-    color: black
+    color: black;
 }
 
 .pointsimg{
@@ -63,7 +65,7 @@
 }
 
 .secondpoint2 img{
-    max-width: width 96px;
+    max-width: width 96px; 
     height: auto;
 }
 
@@ -106,5 +108,15 @@ button{
     margin-bottom: -5em;
     background-color: hsl(192, 100%, 9%);
     padding: 10em;
+}
+
+.text-center {
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    max-width: 30em;
+    font-size: 25px;
+    font-weight: 400;
+    margin: auto;
+    margin-bottom: 1.5em;
 }
 
