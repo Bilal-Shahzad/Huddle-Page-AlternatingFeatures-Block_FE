@@ -106,7 +106,7 @@ button{
 
 .footers{
     margin-bottom: -5em;
-    background-color: hsl(192, 100%, 9%);
+    background-color:black;
     padding: 10em;
 }
 
@@ -120,3 +120,34 @@ button{
     margin-bottom: 1.5em;
 }
 
+#footers{
+    margin-bottom: -5em;
+    background-color: black;
+    padding: 10em;
+}
+
+#cta button{
+    margin-top: 2em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: pink;
+    padding: 1.5em;
+    border-radius: 3em;
+    width: 25em;
+    color: white;
+    border: none;
+}
+
+.secondpointpg{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+.secondpointpg{
+    font-family: 'Open Sans', sans-serif;
+    color: hsl(192, 100%, 9%);
+    font-weight: 600;
+    max-width: 32em;
+}
