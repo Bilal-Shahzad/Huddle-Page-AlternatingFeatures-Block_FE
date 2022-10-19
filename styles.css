@@ -36,6 +36,9 @@
     color: white;
     margin: auto;
     margin-bottom: 1.5em;
+	display:flex;
+  	justify-content: center;
+  	align-items: center;
 }
 
 .image2 {
@@ -102,6 +105,9 @@ button{
     border-radius: 3em;
     width: 25em;
     color: white;
+	display:flex;
+  	justify-content: center;
+  	align-items: center;
 }
 
 .footers{
@@ -139,15 +145,26 @@ button{
     border: none;
 }
 
-.secondpointpg{
+.secondpoint{
     font-size: 50px;
     font-family: 'Poppins', sans-serif;
     color: black;
-}
-
-.secondpointpg{
-    font-family: 'Open Sans', sans-serif;
-    color: hsl(192, 100%, 9%);
     font-weight: 600;
     max-width: 32em;
+}
+
+.navbtn {
+font-family: 'Open Sans', sans-serif;
+font-weight: 600;
+font-size: 20px;
+background-color: pink;
+padding: 1.5em;
+border-radius: 3em;
+width: 25em;
+color: white;
+margin: auto;
+margin-bottom: 1.5em;
+display:flex;
+justify-content: center;
+align-items: center;
 }
