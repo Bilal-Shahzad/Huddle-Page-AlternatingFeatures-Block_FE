@@ -201,4 +201,13 @@ align-items: center;
 #fpara{
     max-width: 20em;
 }
-d
+
+.navigationbar #navbtn{
+    border: 1px solid pink;
+    color: pink;
+    border-radius: 2em;
+    padding: 0.7em;
+    width: 10em;
+    padding: 0.3em;
+    max-width: 7em;
+}
