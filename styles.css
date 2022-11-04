@@ -221,7 +221,7 @@
 
 #footers{
     margin-bottom: -5em;
-    background-color: black);
+    background-color: black;
     padding: 10em;
 }
 
@@ -251,3 +251,95 @@
         border-radius: 3em;
         max-width: 100%;
     }
+
+    #counts h1{
+        font-size: 50px;
+    }
+
+    #count2{
+        margin-top: 3em;
+    }
+    
+
+    .pointsimg{
+        margin-bottom: -2em;
+    }
+    
+    .points{
+        background-color: hsl(207, 100%, 98%);
+        padding: 3em;
+    }
+    
+    .pointsimg2{
+        margin-top: -2em;
+    }
+    
+    .point1 h1{
+        font-size: 30px;
+        text-align: center;
+        margin-top: 2em;
+    }
+    
+    .point1 p{
+        max-width: 20em;
+        margin: auto;
+        text-align: center;
+    }
+    
+    .point2{
+        max-width: 20em;
+        margin: auto;
+    }
+    
+    
+    .secondpoints{
+        padding: 3em;
+    }
+    
+    .secondpoint1 h1{
+        font-size: 30px;
+        text-align: center;
+        margin-top: 2em;
+    }
+    
+    .secondpoint1 p{
+        max-width: 20em;
+        margin: auto;
+        text-align: center;
+    }
+    
+    .secondpoint2{
+        max-width: 20em;
+        margin: auto;
+    }
+    
+    .thirdpointsimg{
+        margin-bottom: -2em;
+    }
+
+    .thirdpoints{
+        background-color: hsl(207, 100%, 98%);
+        padding: 3em;
+    }
+    
+    .thirdpointsimg2{
+        margin-top: -2em;
+    }
+    
+    .thirdpoint1 h1{
+        font-size: 30px;
+        text-align: center;
+        margin-top: 2em;
+    }
+    
+    .thirdpoint1 p{
+        max-width: 20em;
+        margin: auto;
+        text-align: center;
+    }
+    
+    .thirdpoint2{
+        max-width: 20em;
+        margin: auto;
+    }
+    
