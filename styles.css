@@ -342,4 +342,38 @@
         max-width: 20em;
         margin: auto;
     }
+    #cta{
+        margin-top: 10em;
+        margin-bottom: 10em;
+    }
     
+    #cta h1{
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    #cta button{
+        font-size: 15px;
+        padding: 1.5em;
+        max-width: 100%;
+    }
+    
+    
+    #footerimg{
+        margin-bottom: -2em;
+    }
+    
+    #footers{
+        margin-bottom: -2em;
+        background-color: hsl(192, 100%, 9%);
+        padding: 2em;
+    }
+
+    #img{
+        margin-top: 3em;
+    }
+
+    #fpara{
+        max-width: 20em;
+    }
+}
